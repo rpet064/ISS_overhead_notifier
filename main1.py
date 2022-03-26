@@ -7,8 +7,8 @@ import time
 MY_LAT = -37
 MY_LONG = 175
 FORMATTED = 0
-MY_EMAIL = "Pencilcasetester@gmail.com"
-MY_PASSWORD = "xGE81tW3b#$azA"
+MY_EMAIL = "YOUR EMAIL"
+MY_PASSWORD = "YOUR PASSWORD"
 
 
 def iss_overhead():
